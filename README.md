@@ -1,4 +1,4 @@
-# 💾 AboutMe()
+# ✨ About Me
 
 <h4>I am a Junior Software Developer with a love of strongly typed languages and problem solving. After a previous career as a Screenwriter represented by The Artists Partnership, AI came for my job so I decided to come for AI’s job.<h4>
 
