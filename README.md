@@ -31,7 +31,7 @@ I am a Junior Software Developer with a love of strongly typed code and problem 
 
 # Tech stack
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,java,spring,cs,py,mysql,regex,postman,netlify,aws,githubactions,dotnet,docker,flask,visualstudio,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,java,spring,cs,py,mysql,regex,postman,netlify,aws,githubactions,dotnet,docker,flask,visualstudio,git,github&perline=9)](https://skillicons.dev)
 
 <br/>
 
