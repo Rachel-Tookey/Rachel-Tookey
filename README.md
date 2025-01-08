@@ -25,7 +25,7 @@
 <a href="https://github.com/Rachel-Tookey/GIFeels"><img src="https://github.com/Rachel-Tookey/Rachel-Tookey/blob/main/GIFs/GIFeels.gif"></a>
 <br/>
 <br/>
-<h3><a href="https://github.com/Rachel-Tookey/RecordShop_Security_Project">🔐  RecordShop: Java auth with Spring Security /a> </h3>
+<h3><a href="https://github.com/Rachel-Tookey/RecordShop_Security_Project">🔐  RecordShop: Java auth with Spring Security </a> </h3>
 <br/>
 <a href="https://github.com/Rachel-Tookey/RecordShop_Security_Project"><img src="https://github.com/Rachel-Tookey/Rachel-Tookey/blob/main/GIFs/RecordShop.gif"></a> 
 <br/>
