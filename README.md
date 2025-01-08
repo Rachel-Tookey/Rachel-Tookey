@@ -20,8 +20,7 @@
 </a>
 
 # Portfolio
-<h4>Below are my featured portfolio projects in Python, Java and C#:</h4>
-<br/>
+<h4>Click on the images below to see my repos for the following projects:</h4>
 <h3><a href="https://github.com/Rachel-Tookey/GIFeels">🥹  GIFeels: Flask-Python web app</a></h3>
 <br/>
 <a href="https://github.com/Rachel-Tookey/GIFeels"><img src="https://github.com/Rachel-Tookey/Rachel-Tookey/blob/main/GIFs/GIFeels.gif"></a>
