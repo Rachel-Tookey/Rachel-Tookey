@@ -1,7 +1,8 @@
 # 💾 AboutMe()
 
-<h3>💻  Backend Software Developer in C# & Java</h3>
-<h3>💪 Lover of Strongly Typed Languages </h3>
+<h3>💻 Backend Software Developer in C# & Java</h3>
+<h3>💪 Lover of Strongly Typed Languages</h3>
+<h3>💡 Committed to a lifetime of learning</h3>
 <br/>
 
 # Background
@@ -16,7 +17,7 @@ I am a Junior Software Developer with a love of strongly typed code and problem 
 
 <br/>
 
-# My Repos
+# Featured Projects
 
 🔐  <a href="https://github.com/Rachel-Tookey/RecordShop_Security_Project"> RecordShop: an auth project in Java using Spring Security </a>
 
