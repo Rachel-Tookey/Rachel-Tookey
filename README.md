@@ -2,7 +2,7 @@
 
 <h3>💻 Backend Software Developer in C# & Java</h3>
 <h3>💪 Lover of Strongly Typed Languages</h3>
-<h3>💡 Committed to a lifetime of learning</h3>
+<h3>💡 Committed to a Lifetime of Learning</h3>
 <br/>
 
 # Background
@@ -23,7 +23,20 @@ I am a Junior Software Developer with a love of strongly typed code and problem 
 
 🥹  <a href="https://github.com/Rachel-Tookey/GIFeels"> GIFeels: A Flask-Python web app </a>
 
-<img src="https://github.com/Rachel-Tookey/Rachel-Tookey/blob/main/GIFs/GIFeels.gif" width = 576px height = 324px >  
+<img src="https://github.com/Rachel-Tookey/Rachel-Tookey/blob/main/GIFs/GIFeels2.gif">
+
+<table> 
+  <tr>
+<td><img src="https://github.com/Rachel-Tookey/Rachel-Tookey/blob/main/GIFs/GIFeels.gif" width = 576px height = 324px >  </td>
+<td>
+      <ul>
+        <li>✅ 3 External API calls</li>
+        <li>Item 2</li>
+        <li>Item 3</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 🚀  <a href="https://github.com/Rachel-TookeyThe_Race_To_Save_Mars"> The Race to Save Mars: a C# .Net terminal app </a>
 
