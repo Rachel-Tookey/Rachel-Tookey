@@ -7,7 +7,6 @@
 <h4>I am currently undertaking an intensive bootcamp in <code>C#</code> where I am expanding my skill set and further preparing myself for career in coding.</h4>
 
 <h6><i>My Humblebrag:</i> I have a First class degree in Law from Cambridge.</h6>
-<br/>
 
 # Tech stack
 
