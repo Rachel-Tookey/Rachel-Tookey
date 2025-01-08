@@ -1,12 +1,12 @@
 # ✨ About Me
 
-<h4>I am a Junior Software Developer with a love of strongly typed languages and problem solving. After a previous career as a Screenwriter represented by The Artists Partnership, AI came for my job so I decided to come for AI’s job.<h4>
+<h5>I am a Junior Software Developer with a love of strongly typed languages and problem solving. After a previous career as a Screenwriter represented by The Artists Partnership, AI came for my job so I decided to come for AI’s job.<h5>
 
-<h4>Last year, I was selected for Code First Girls' software bootcamp out of 3000 applicants, where I formalised my understanding of <code>OOP</code>, <code>Python</code>, <code>MySQL</code>, <code>Javascript</code>, <code>HTML</code> and <code>CSS</code>. I graduated with a Distinction and 98% across all assignments/tests. I then completed a follow on +Masters in <code>Java</code> and <code>Spring Boot</code>.</h4>
+<h5>Last year, I was selected for Code First Girls' software bootcamp out of 3000 applicants, where I formalised my understanding of <code>OOP</code>, <code>Python</code>, <code>MySQL</code>, <code>Javascript</code>, <code>HTML</code> and <code>CSS</code>. I graduated with a Distinction and 98% across all assignments/tests. I then completed a follow on +Masters in <code>Java</code> and <code>Spring Boot</code>.</h5>
 
-<h4>I am currently undertaking an intensive bootcamp in <code>C#</code> where I am expanding my skill set and further preparing myself for career in coding.</h4>
+<h5>I am currently undertaking an intensive bootcamp in <code>C#</code> where I am expanding my skill set and further preparing myself for career in coding.</h5>
 
-<h4><i>My Humblebrag:</i> I have a First class degree in Law from Cambridge.</h4>
+<h5><i>My Humblebrag:</i> I have a First class degree in Law from Cambridge.</h5>
 
 # Tech stack
 
@@ -25,6 +25,7 @@
 <br/>
 
 <h3> 🔐  <a href="https://github.com/Rachel-Tookey/RecordShop_Security_Project"> RecordShop: Java auth with Spring Security </a> </h3>
+<img src="https://github.com/Rachel-Tookey/Rachel-Tookey/blob/main/GIFs/RecordShop.gif">
 <br/>
 
 <h3>🚀  <a href="https://github.com/Rachel-TookeyThe_Race_To_Save_Mars"> The Race to Save Mars: C# terminal app </a> </h3>
