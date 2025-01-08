@@ -8,17 +8,6 @@ I am currently undertaking an intensive bootcamp in <code>C#</code> where I am e
 
 <h6><i>My Humblebrag:</i> I have a First class degree in Law from Cambridge.</h6>
 
-# Tech stack
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,java,spring,cs,py,mysql,regex,postman,netlify,aws,githubactions,dotnet,docker,flask,visualstudio,git,github&perline=18)](https://skillicons.dev)
-
-# Socials
-
-<a href="https://www.linkedin.com/in/rachel-tookey-539a42134">
-<img src='https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge' />
-
-</a>
-
 # Portfolio
 Click on the images below to see my repos for the following projects:
 <h3><a href="https://github.com/Rachel-Tookey/GIFeels">🥹  GIFeels: Flask-Python web app</a></h3>
@@ -36,3 +25,12 @@ Click on the images below to see my repos for the following projects:
 <br/>
 
 
+# Tech stack
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,java,spring,cs,py,mysql,regex,postman,netlify,aws,githubactions,dotnet,docker,flask,visualstudio,git,github&perline=18)](https://skillicons.dev)
+
+# Socials
+
+<a href="https://www.linkedin.com/in/rachel-tookey-539a42134">
+<img src='https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge' />
+</a>
