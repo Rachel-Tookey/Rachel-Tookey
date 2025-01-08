@@ -6,6 +6,8 @@
 
 <h4>I am currently undertaking an intensive bootcamp in <code>C#</code> where I am expanding my skill set and further preparing myself for career in coding.</h4>
 
+<h4>Humblebrag: I have a First class degree in Law from Cambridge.</h4>
+
 # Tech stack
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,java,spring,cs,py,mysql,regex,postman,netlify,aws,githubactions,dotnet,docker,flask,visualstudio,git,github&perline=18)](https://skillicons.dev)
