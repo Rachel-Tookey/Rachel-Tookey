@@ -2,9 +2,9 @@
 
 <h4>I am a Junior Software Developer with a love of strongly typed languages and problem solving. After a previous career as a Screenwriter represented by The Artists Partnership, AI came for my job so I decided to come for AI’s job.<h4>
 
-<h4>Last year, I was selected for Code First Girls' software bootcamp out of 3000 applicants, where I formalised my understanding of `OOP`, `Python`, `MySQL`, `Javascript`, `HTML` and `CSS`. I graduated with a Distinction and 98% across all assignments/tests. I then completed a follow on +Masters in `Java` and `Spring Boot`.</h4>
+<h4>Last year, I was selected for Code First Girls' software bootcamp out of 3000 applicants, where I formalised my understanding of <code>OOP</code>, <code>Python</code>, <code>MySQL</code>, <code>Javascript</code>, <code>HTML</code> and <code>CSS</code>. I graduated with a Distinction and 98% across all assignments/tests. I then completed a follow on +Masters in <code>Java</code> and <code>Spring Boot</code>.</h4>
 
-<h4>I am currently undertaking an intensive bootcamp in `C#` where I am expanding my skill set and further preparing myself for career in coding.</h4>
+<h4>I am currently undertaking an intensive bootcamp in <code>C#</code> where I am expanding my skill set and further preparing myself for career in coding.</h4>
 
 # Tech stack
 
