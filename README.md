@@ -18,7 +18,7 @@
 <img src='https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge' />
 </a>
 
-# Featured Projects
+# Portfolio
 
 <h3>🥹  <a href="https://github.com/Rachel-Tookey/GIFeels"> GIFeels: Flask-Python web app </a> </h3>
 <img src="https://github.com/Rachel-Tookey/Rachel-Tookey/blob/main/GIFs/GIFeels.gif">
