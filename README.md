@@ -23,7 +23,7 @@ I am a Junior Software Developer with a love of strongly typed code and problem 
 
 🥹  <a href="https://github.com/Rachel-Tookey/GIFeels"> GIFeels: A Flask-Python web app </a>
 
-![](https://github.com/Rachel-Tookey/Rachel-Tookey/blob/main/GIFeels.gif)
+<img src="https://github.com/Rachel-Tookey/Rachel-Tookey/blob/main/GIFeels.gif" width = 576px height = 324px >  
 
 🚀  <a href="https://github.com/Rachel-TookeyThe_Race_To_Save_Mars"> The Race to Save Mars: a C# .Net terminal app </a>
 
