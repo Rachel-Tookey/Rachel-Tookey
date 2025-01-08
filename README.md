@@ -16,12 +16,13 @@
 
 <a href="https://www.linkedin.com/in/rachel-tookey-539a42134">
 <img src='https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge' />
+
 </a>
 
 # Portfolio
 
-<h3>🥹  <a href="https://github.com/Rachel-Tookey/GIFeels"> GIFeels: Flask-Python web app </a> </h3>
-<img src="https://github.com/Rachel-Tookey/Rachel-Tookey/blob/main/GIFs/GIFeels.gif">
+<h3>🥹  <a href="https://github.com/Rachel-Tookey/GIFeels"> GIFeels: Flask-Python web app  
+<img src="https://github.com/Rachel-Tookey/Rachel-Tookey/blob/main/GIFs/GIFeels.gif"></a></h3>
 <br/>
 
 <h3> 🔐  <a href="https://github.com/Rachel-Tookey/RecordShop_Security_Project"> RecordShop: Java auth with Spring Security </a> </h3>
