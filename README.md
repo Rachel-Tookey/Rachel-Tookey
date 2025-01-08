@@ -19,21 +19,14 @@ I am a Junior Software Developer with a love of strongly typed code and problem 
 
 # Featured Projects
 
-<h3> 🔐  <a href="https://github.com/Rachel-Tookey/RecordShop_Security_Project"> RecordShop: Java auth with Spring Security </a> </h3>
-
-
+<h3>🥹  <a href="https://github.com/Rachel-Tookey/GIFeels"> GIFeels: A Flask-Python web app </a> </h3>
+<img src="https://github.com/Rachel-Tookey/Rachel-Tookey/blob/main/GIFs/GIFeels.gif">
 <br/>
 
-
-<h3>🥹  <a href="https://github.com/Rachel-Tookey/GIFeels"> GIFeels: A Flask-Python web app </a> </h3>
-
-<img src="https://github.com/Rachel-Tookey/Rachel-Tookey/blob/main/GIFs/GIFeels.gif">
-
+<h3> 🔐  <a href="https://github.com/Rachel-Tookey/RecordShop_Security_Project"> RecordShop: Java auth with Spring Security </a> </h3>
 <br/>
 
 <h3>🚀  <a href="https://github.com/Rachel-TookeyThe_Race_To_Save_Mars"> The Race to Save Mars: a C# .Net terminal app </a> </h3>
-
-
 <br/>
 
 # Tech stack
