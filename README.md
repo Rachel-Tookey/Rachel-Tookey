@@ -9,7 +9,7 @@ I am currently undertaking an intensive bootcamp in <code>C#</code> where I am e
 <h6><i>My Humblebrag:</i> I have a First class degree in Law from Cambridge.</h6>
 
 # Portfolio
-Click on the images below to see my repos for the following projects:
+Click on the images to see my repos:
 <h3><a href="https://github.com/Rachel-Tookey/GIFeels">🥹  GIFeels: Flask-Python web app</a></h3>
 <br/>
 <a href="https://github.com/Rachel-Tookey/GIFeels"><img src="https://github.com/Rachel-Tookey/Rachel-Tookey/blob/main/GIFs/GIFeels.gif"></a>
