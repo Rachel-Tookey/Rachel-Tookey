@@ -20,17 +20,18 @@
 </a>
 
 # Portfolio
-
-<h3>🥹  <a href="https://github.com/Rachel-Tookey/GIFeels"> GIFeels: Flask-Python web app  
-<img src="https://github.com/Rachel-Tookey/Rachel-Tookey/blob/main/GIFs/GIFeels.gif"></a></h3>
+<h3><a href="https://github.com/Rachel-Tookey/GIFeels">🥹  GIFeels: Flask-Python web app</a></h3>
 <br/>
-
-<h3> 🔐  <a href="https://github.com/Rachel-Tookey/RecordShop_Security_Project"> RecordShop: Java auth with Spring Security </a> </h3>
-<img src="https://github.com/Rachel-Tookey/Rachel-Tookey/blob/main/GIFs/RecordShop.gif">
+<a href="https://github.com/Rachel-Tookey/GIFeels"><img src="https://github.com/Rachel-Tookey/Rachel-Tookey/blob/main/GIFs/GIFeels.gif"></a>
 <br/>
-
-<h3>🚀  <a href="https://github.com/Rachel-TookeyThe_Race_To_Save_Mars"> The Race to Save Mars: C# terminal app </a> </h3>
-<h6><i>Coming Soon</i></h6>
+<br/>
+<h3><a href="https://github.com/Rachel-Tookey/RecordShop_Security_Project">🔐  RecordShop: Java auth with Spring Security /a> </h3>
+<br/>
+<a href="https://github.com/Rachel-Tookey/RecordShop_Security_Project"><img src="https://github.com/Rachel-Tookey/Rachel-Tookey/blob/main/GIFs/RecordShop.gif"></a> 
+<br/>
+<br/>
+<h3><a href="https://github.com/Rachel-TookeyThe_Race_To_Save_Mars">🚀  The Race to Save Mars: C# terminal app </a> </h3>
+<h6><a href="https://github.com/Rachel-TookeyThe_Race_To_Save_Mars"><i>Coming Soon</i></a></h6>
 <br/>
 
 
