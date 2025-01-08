@@ -6,7 +6,7 @@
 
 <h4>I am currently undertaking an intensive bootcamp in <code>C#</code> where I am expanding my skill set and further preparing myself for career in coding.</h4>
 
-<h4>Humblebrag: I have a First class degree in Law from Cambridge.</h4>
+<h4><i>My Humblebrag:</i> I have a First class degree in Law from Cambridge.</h4>
 
 # Tech stack
 
@@ -15,7 +15,7 @@
 # Socials
 
 <a href="https://www.linkedin.com/in/rachel-tookey-539a42134">
-  <img src='https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge' />
+<img src='https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge' />
 </a>
 
 # Featured Projects
