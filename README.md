@@ -24,7 +24,7 @@ I am currently undertaking an intensive bootcamp in <code>C#</code> where I am e
 Click on the images to see my repos:
 <h3><a href="https://github.com/Rachel-Tookey/GIFeels">🥹  GIFeels: Flask-Python web app</a></h3>
 <br/>
-<a href="https://github.com/Rachel-Tookey/GIFeels"><img src="https://github.com/Rachel-Tookey/Rachel-Tookey/blob/main/GIFs/GIFeels.gif"></a>
+<a href="https://github.com/Rachel-Tookey/GIFeels"><img src="https://github.com/Rachel-Tookey/Rachel-Tookey/blob/main/GIFs/GIFeels.gif_3"></a>
 <br/>
 <br/>
 <h3><a href="https://github.com/Rachel-Tookey/RecordShop_Security_Project">🔐  RecordShop: Java auth with Spring Security </a> </h3>
