@@ -10,7 +10,7 @@ I am currently undertaking an intensive bootcamp in <code>C#</code> where I am e
 
 # Tech stack
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,java,spring,cs,py,mysql,regex,postman,netlify,aws,githubactions,dotnet,docker,flask,visualstudio,git,github&perline=18)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,java,spring,cs,py,mysql,aws,githubactions,dotnet,docker,flask,visualstudio,git,github&perline=18)](https://skillicons.dev)
 
 
 # Socials
