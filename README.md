@@ -6,7 +6,7 @@ Last year, I was selected for Code First Girls' software bootcamp out of 3000 ap
 
 I am currently undertaking an intensive bootcamp in <code>C#</code> where I am exploring the world of <code>.NET</code> and further preparing myself for a career in coding.
 
-<h6><i>My Humblebrag:</i> I have a First class degree in Law from Cambridge. Still waiting for it to come in handy...</h6>
+<h6><i>My Humblebrag:</i> I have a First class degree in Law from Cambridge. This has yet to be useful...</h6>
 
 # Tech stack
 
