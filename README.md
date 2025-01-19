@@ -33,7 +33,9 @@ Click on the images to see my repos:
 <br/>
 <br/>
 <h3><a href="https://github.com/Rachel-TookeyThe_Race_To_Save_Mars">🚀  The Race to Save Mars: C# terminal app </a> </h3>
-<h6><a href="https://github.com/Rachel-TookeyThe_Race_To_Save_Mars"><i>Coming Soon</i></a></h6>
+<br/>
+<a href="https://github.com/Rachel-TookeyThe_Race_To_Save_Mars"><img src="https://github.com/Rachel-Tookey/Rachel-Tookey/blob/0bf05bd2d50f2407a45f3173d28121790ae9f390/GIFs/MarsRover.gif"></a> 
+<br/>
 <br/>
 <h3><a href="https://github.com/Rachel-Tookey/cs_record_shop">💿 Record Shop: C# edition </a> </h3>
 <h6><a href="https://github.com/Rachel-Tookey/cs_record_shop"><i>Coming Soon</i></a></h6>
