@@ -27,13 +27,16 @@ Click on the images to see my repos:
 <a href="https://github.com/Rachel-Tookey/GIFeels"><img src="https://github.com/Rachel-Tookey/Rachel-Tookey/blob/main/GIFs/GIFeels_3.gif"></a>
 <br/>
 <br/>
-<h3><a href="https://github.com/Rachel-Tookey/RecordShop_Security_Project">🔐  RecordShop: Java auth with Spring Security </a> </h3>
+<h3><a href="https://github.com/Rachel-Tookey/RecordShop_Security_Project">🔐  Record Shop: Java auth with Spring Security </a> </h3>
 <br/>
 <a href="https://github.com/Rachel-Tookey/RecordShop_Security_Project"><img src="https://github.com/Rachel-Tookey/Rachel-Tookey/blob/main/GIFs/RecordShop.gif"></a> 
 <br/>
 <br/>
 <h3><a href="https://github.com/Rachel-TookeyThe_Race_To_Save_Mars">🚀  The Race to Save Mars: C# terminal app </a> </h3>
 <h6><a href="https://github.com/Rachel-TookeyThe_Race_To_Save_Mars"><i>Coming Soon</i></a></h6>
+<br/>
+<h3><a href="https://github.com/Rachel-Tookey/cs_record_shop">💿 Record Shop: C# edition </a> </h3>
+<h6><a href="https://github.com/Rachel-Tookey/cs_record_shop"><i>Coming Soon</i></a></h6>
 <br/>
 
 
