@@ -27,7 +27,7 @@ Click on the images to see my repos:
 <a href="https://github.com/Rachel-Tookey/GIFeels"><img src="https://github.com/Rachel-Tookey/Rachel-Tookey/blob/main/GIFs/GIFeels_3.gif"></a>
 <br/>
 <br/>
-<h3><a href="https://github.com/Rachel-Tookey/RecordShop_Security_Project">🔐  Record Shop: Java Spring MVC RESTfulAPI with Spring Security </a> </h3>
+<h3><a href="https://github.com/Rachel-Tookey/RecordShop_Security_Project">🔐  Record Shop: Java Spring MVC RESTful API with Spring Security </a> </h3>
 <br/>
 <a href="https://github.com/Rachel-Tookey/RecordShop_Security_Project"><img src="https://github.com/Rachel-Tookey/Rachel-Tookey/blob/main/GIFs/RecordShop.gif"></a> 
 <br/>
