@@ -34,13 +34,14 @@ Click on the images to see my repos:
 <br/>
 <h3><a href="https://github.com/Rachel-Tookey/The_Race_To_Save_Mars">🚀  The Race to Save Mars: C# terminal app </a> </h3>
 <br/>
+<a href="https://github.com/Rachel-Tookey/cs_record_shop_frontend"><img src="https://github.com/Rachel-Tookey/Rachel-Tookey/blob/e4294594b943bcfeff2af0e2e719eddd41163b25/GIFs/RecordShop_VF.gif"></a> 
+<a href="https://github.com/Rachel-Tookey/cs_record_shop">Repo for backend</a>
+<br/>
 <a href="https://github.com/Rachel-Tookey/The_Race_To_Save_Mars"><img src="https://github.com/Rachel-Tookey/Rachel-Tookey/blob/0bf05bd2d50f2407a45f3173d28121790ae9f390/GIFs/MarsRover.gif"></a> 
 <br/>
 <br/>
 <h3><a href="https://github.com/Rachel-Tookey/cs_record_shop_frontend">💿 Visual Frequencies: Full Stack C# Web App with Blazor Frontend & ASP.NET MVC RESTful API </a> </h3>
 <br/>
-<a href="https://github.com/Rachel-Tookey/cs_record_shop_frontend"><img src="https://github.com/Rachel-Tookey/Rachel-Tookey/blob/e4294594b943bcfeff2af0e2e719eddd41163b25/GIFs/RecordShop_VF.gif"></a> 
-<a href="https://github.com/Rachel-Tookey/cs_record_shop">Repo for backend</a>
-<br/>
+
 
 
