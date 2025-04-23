@@ -1,12 +1,6 @@
 # ✨ About Me
 
-I am a Junior Software Developer with a love of strongly typed languages and problem solving. After a previous career as a Screenwriter represented by The Artists Partnership, AI came for my job so I decided to come for AI’s job.
-
-Last year, I was selected for Code First Girls' software bootcamp out of 3000 applicants, where I formalised my understanding of <code>OOP</code>, <code>Python</code>, <code>MySQL</code>, <code>Javascript</code>, <code>HTML</code> and <code>CSS</code>. I graduated with a Distinction and 98% across all assignments/tests, and then completed a follow on +Masters in <code>Java</code> and <code>Spring Boot</code>.
-
-I am currently undertaking an intensive bootcamp in <code>C#</code> where I am exploring the world of <code>.NET</code> and further preparing myself for a career in coding.
-
-<h6><i>My Humblebrag:</i> I have a First class degree in Law from Cambridge. I'm sure someday it will come in handy...</h6>
+I am a Junior Software Developer with a love of strongly typed languages and problem solving, currently working for Softwire. This is my personal Github.
 
 # Tech stack
 
