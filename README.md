@@ -1,6 +1,6 @@
 # ✨ About Me
 
-I am a Junior Software Developer with a love of strongly typed languages and problem solving, currently working for Softwire. This is my personal Github.
+I am a Junior Software Developer with a love of strongly typed languages and problem solving. This is my personal Github.
 
 # Tech stack
 
